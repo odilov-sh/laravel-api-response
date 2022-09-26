@@ -1,0 +1,17 @@
+{
+    "name": "odilov-sh/laravel-api-response",
+    "description": "laravel custom api response",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Odilov\\Laravel\\ApiResponse": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shukurullo",
+            "email": "shukurullo0321@gmail.com"
+        }
+    ],
+    "require": {}
+}
